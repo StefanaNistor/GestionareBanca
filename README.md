@@ -1,3 +1,12 @@
-# GestionareBanca
-In this project I aim to track the accounts enrolled in a certain bank and their transactions. The account types are either current account or economies where you have the option of choosing an interest rate for either 3, 6 or 12 months. The bank offers a set number of free transactions and then adds a fee for each transaction and also for transactions done from another bank. 
-You can enroll an account, view the current accounts in a bank and the number of economies accounts as well as see the bank details from the console menu.
+# Bank Management
+## Overview
+The project is designed to track bank accounts and their associated transactions from a bank. The system supports two account types: *current accounts* and *savings accounts*. Users can select an interest rate for savings accounts, with options for *3, 6, or 12 months*. The bank provides a limited number of free transactions, after which fees apply for both internal transactions and those conducted with external banks. Users can enroll new accounts, view existing accounts, and access detailed bank information through a console-based menu.
+
+## In-depth Functionality
+### Account Management:
+- **Current and Savings Accounts:** Users can enroll either a current account or a savings account with customizable interest rates (3, 6, or 12 months).
+- **Transaction Tracking:** The system tracks account transactions, applying fees after a certain number of free transactions or when transactions are made between banks.
+### Bank Operations:
+- **Account Enrollment:** Register new accounts within the bank's system.
+- **Account Overview:** View all current accounts, the total number of savings accounts, and detailed information for each.
+- **Bank Details Access:** Access detailed bank information directly from the console menu.
